@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	font-family: Helvetica;
+}
+
+body {
+	background-color: #EEEEEE;
+}
+
+h1 {
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.navbar-brand {
+	font-size: 1.75em;
+}
+
+.content-heading {
+	font-size: 1.5em;
+}
+
+#content {
+	background-color: #AAAAAA;
+	border-radius: 10px;
+	padding: 10px 10px 10px 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
